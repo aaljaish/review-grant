@@ -8,17 +8,7 @@ This skill adapts the user-supplied appendix titled **"Example AI prompt to test
 
 Ahmed A. Al-Jaishi, PhD; Kyla Naylor, PhD; Bin Luo, PhD; Amit X. Garg, MD, PhD; Jessica Sontrop, PhD.
 
-The manuscript title, author order, and credentials above follow the material supplied for this package. Affiliations, publication venue, publication status, year of publication, DOI, and a public manuscript URL were not supplied and are not asserted here. This source note is not a fabricated journal citation.
-
 The framework asks four questions: whether an RCT is needed for an unresolved question; whether intent, design, estimand, outcomes, sample size, and analysis align; whether delivery assumptions are realistic and supported; and whether results will inform decisions across beneficial, null, and inconclusive outcomes.
-
-## Adaptation
-
-The skill preserves the appendix's constructive reviewer role, non-specialist audience, four domains, common weaknesses, three-column concern table, priority revisions, committee-discussion paragraph, and prohibition on invented facts.
-
-The package adds host installation guidance, explicit scope and evidence-status reporting, source locations for concerns, qualitative severity definitions, optional external verification boundaries, follow-up review instructions, and a fictional worked example. These implementation additions should not be represented as validated findings or verbatim statements from the manuscript.
-
-The source authors are credited for the supplied framework. This documentation does not assert that every listed author has tested or endorsed this software package. No real grant application or peer review is included.
 
 ## Platform references
 
