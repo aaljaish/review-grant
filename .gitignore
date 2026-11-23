@@ -1,0 +1,10 @@
+# Keep unpublished grant materials and locally generated reviews out of Git.
+private/
+inputs/
+outputs/
+.env
+.env.*
+!.env.example
+__pycache__/
+.DS_Store
+Thumbs.db
