@@ -151,8 +151,6 @@ The default review assesses the supplied materials. It does not claim that refer
 
 Use confidential, identifiable, or sensitive material only in tools approved for that purpose by the relevant institution or sponsor. This skill does not configure encryption, retention, training use, access controls, institutional approvals, or sponsor compliance. Check those controls in the tool you choose. The package itself has no scripts, network calls, telemetry, or bundled model; host tools may still process data according to their settings.
 
-Do not commit applications, patient data, private reviews, or confidential outputs to this public repository. The supplied example is fictional.
-
 ## Limits and human oversight
 
 AI can miss a contradiction, misread a table, misunderstand a design, or recommend an inappropriate revision. Numerical plausibility checks do not establish statistical validity. A persuasive report does not establish the correctness of its recommendations.
