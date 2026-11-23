@@ -2,7 +2,7 @@
 
 ## Source framework
 
-This skill adapts the user-supplied appendix titled **"Appendix 1. Example AI prompt to test reviewability before grant submission"** and the supplied manuscript abstract:
+This skill adapts the user-supplied appendix titled **"Example AI prompt to test reviewability before grant submission"** and the supplied manuscript abstract:
 
 **Why Good Randomized Trial Grant Applications Get Rejected: Four Questions Reviewers Ask**
 
