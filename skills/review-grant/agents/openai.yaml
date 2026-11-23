@@ -1,0 +1,4 @@
+interface:
+  display_name: "/Review Grant"
+  short_description: "Review RCT grant clarity, logic, feasibility, and value"
+  default_prompt: "Use $review-grant to assess the attached RCT grant application's reviewability and prioritize concrete revisions before submission."
